@@ -1,14 +1,8 @@
-// ** FCAI-CU – CS112 - Structured Programming – 2024 - Assignment ( 2 ) - Task ( 3 ) **
-// Last Modification Date: 13/03/2024
-// Under supervision of  : Dr.Mohamed El-Ramly
-// TA                    : Eng.Yomna Ismail Fathy
-// File Name             : CS112_A2_T3_S2_20230417_20230621
-// Purpose               : In this program we create a ( Rational Number Calculator ) that is capable of taking two rational numbers and an operation to perform on them.
-// Authors               : Malak Mohamed Saad Fahmy Al-Aabiad       => ID: ( 20230417 )    => SECTION: S2     => FUNCTIONS:     ( Simplify, Addition, Subtraction, Main).
-//                       : Mo'men Mohamed Mahmoud Mohamed Yosri     => ID: ( 20230621 )    => SECTION: S2     => FUNCTIONS:     ( Multiplication, Division             ).
-// Emails                : malakkalaabiadd@gmail.com
-//                       : momen.yosri@gmail.com
 
+// Last Modification Date: 13/03/2024
+// Purpose               : In this program we create a ( Rational Number Calculator ) that is capable of taking two rational numbers and an operation to perform on them.
+// Authors               : Malak Mohamed Saad Fahmy Al-Aabiad
+// Emails                : malakkalaabiadd@gmail.com
 #include <iostream>
 #include <string>
 #include <cstdlib>
